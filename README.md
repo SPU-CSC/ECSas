@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Project currently deployed on [AWS Firebase](https://console.firebase.google.com/u/0/project/ecsas-4e69c/overview)
+
 ## Available Scripts
 
 In the project directory, you can run:
